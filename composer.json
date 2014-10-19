@@ -1,0 +1,13 @@
+{
+    "name": "cobacobi/kontrol",
+    "description": "Content Management System based on Laravel",
+    "require": {
+        "laravel/laravel": "4.2"
+    },
+    "authors": [
+        {
+            "name": "Kusmayadi",
+            "email": "kusmayadi@cobacobi.com"
+        }
+    ]
+}
